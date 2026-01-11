@@ -30,8 +30,6 @@ Dynamic Memory Allocation
 
 Encapsulation
 
-适合初学者理解 C++ 的核心概念（简单又实用）
-
 📂 Project Structure
 BankAccount.cpp
 README.md
